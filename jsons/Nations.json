@@ -386,7 +386,7 @@
 	{
 		"name": "Beorn's Hall",
 		"adjective": ["Beorn's Hall"],
-		"cityStateType": "Cultured",
+		"cityStateType": "Beorn's Hall",
 		"uniques": [
             		"[+1 Science] from [Pasture] tiles [in all cities]",
 		],
@@ -426,7 +426,7 @@
 	{
 		"name": "Dale",
 		"adjective": ["Dale"],
-		"cityStateType": "Mercantile",
+		"cityStateType": "Dale",
 		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -439,7 +439,7 @@
 	{
 		"name": "Dunland",
 		"adjective": ["Dunland"],
-		"cityStateType": "Militaristic",
+		"cityStateType": "Dunland",
 
 		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
 		"attacked": "You gormless radger! You'll dine on your own teeth before you set foot in Dunland!",
