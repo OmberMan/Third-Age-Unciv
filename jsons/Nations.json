@@ -426,7 +426,7 @@
 	{
 		"name": "Dale",
 		"adjective": ["Dale"],
-		"cityStateType": "Dale",
+		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
