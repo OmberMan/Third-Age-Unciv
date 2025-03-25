@@ -275,7 +275,7 @@
 	{
 		"name": "Noldor Elves",
 		"era": "Second Age",
-		"uniques": ["Only available <for [Noldor Elves]>",],
+		"uniques": ["Only available <for [Noldor Elves]>"],
 		"policies": [
 			{
 				"name": "Far Sight",
