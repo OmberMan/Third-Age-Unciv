@@ -1,1 +1,46 @@
-h
+[
+{
+                "name": "Gondor",
+                "preferredVictoryType": "Domination",
+                "food": 6,
+                "production": 5,
+                "gold": 5,
+                "culture": 7,
+                "science": 6,
+                "faith": 5,
+                "military": 7,
+                "warMongering": 4,
+"aggressive": 4,
+      "declareWar": 6,
+      "commerce": 6,
+      "diplomacy": 7,
+      "loyal": 9,
+      "expansion": 6,
+"uniques":["Will not build [Faith]", "Will not build [Hospital]", "Will not build [Settler]"],
+"priorities": {
+    "Freedom": 20,
+    "Tradition": 10
+}
+        },
+{
+                "name": "Rohan",
+                "preferredVictoryType": "Domination",
+                "food": 5,
+                "production": 5,
+                "gold": 6,
+                "culture": 5,
+                "science": 4,
+                "faith": 5,
+                "military": 7,
+                "warMongering": 5,
+"aggressive": 8,
+      "declareWar": 6,
+      "commerce": 4,
+      "diplomacy": 6,
+      "loyal": 7,
+      "expansion": 7,
+    "Freedom": 10,
+    "Honor": 10
+}
+        },
+]
