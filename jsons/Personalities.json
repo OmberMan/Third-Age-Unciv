@@ -17,8 +17,8 @@
       "loyal": 9,
       "expansion": 6,
 "priorities": {
-    "Freedom": 20,
-    "Tradition": 10
+    "Gondor": 50,
+    "Good": 30
 }
         },
 {
@@ -39,8 +39,8 @@
       "loyal": 7,
       "expansion": 7,
 "priorities": {
-    "Freedom": 10,
-    "Honor": 10
+    "Rohan": 50,
+    "Good": 10
 }
         },
 {
@@ -61,7 +61,8 @@
       "loyal": 7,
       "expansion": 2,
 "priorities": {
-    "Tradition": 10
+    "Sindar Elves": 50,
+    "Good": 20,
 }
         },
 {
@@ -82,7 +83,8 @@
       "loyal": 9,
       "expansion": 2,
 "priorities": {
-    "Freedom": 10
+    "Noldor Elves": 50,
+    "Good": 30
 }
         },
 {
@@ -103,7 +105,8 @@
       "loyal": 8,
       "expansion": 8,
 "priorities": {
-    "Freedom": 10
+    "Arnor": 50,
+    "Good": 30
 }
         },
 {
@@ -124,8 +127,8 @@
       "loyal": 8,
       "expansion": 3,
 "priorities": {
-    "Tradition": 10,
-    "Freedom": 10
+    "The Shire": 50,
+    "Good": 20
 }
         },
 {
@@ -146,7 +149,8 @@
       "loyal": 10,
       "expansion": 3,
 "priorities": {
-    "Freedom": 10
+    "The Dwarves": 50,
+    "Good": 30
 }
         },
 {
@@ -167,7 +171,8 @@
       "loyal": 3,
       "expansion": 8,
 "priorities": {
-    "Honor": 50
+    "Mordor": 50,
+    "Evil": 40
 }
         },
 {
@@ -188,7 +193,8 @@
       "loyal": 1,
       "expansion": 3,
 "priorities": {
-    "Honor": 10
+    "Isengard": 50,
+    "Evil": 30
 }
         },
 {
@@ -209,7 +215,8 @@
       "loyal": 3,
       "expansion": 6,
 "priorities": {
-    "Honor": 10
+    "Goblins": 50,
+    "Evil": 30
 }
         },
 {
@@ -230,7 +237,8 @@
       "loyal": 4,
       "expansion": 7,
 "priorities": {
-    "Honor": 40
+    "Angmar": 50,
+    "Evil": 30
 }
         },
 {
@@ -251,7 +259,8 @@
       "loyal": 6,
       "expansion": 8,
 "priorities": {
-    "Honor": 10
+    "Harad": 50,
+    "Evil": 10
 }
         },
 {
@@ -272,7 +281,8 @@
       "loyal": 5,
       "expansion": 10,
 "priorities": {
-    "Honor": 10
+    "Rhun": 50,
+    "Evil": 10
 }
         },
 ]
