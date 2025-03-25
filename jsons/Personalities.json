@@ -16,7 +16,6 @@
       "diplomacy": 7,
       "loyal": 9,
       "expansion": 6,
-"uniques":["Will not build [Faith]", "Will not build [Hospital]", "Will not build [Settler]"],
 "priorities": {
     "Freedom": 20,
     "Tradition": 10
@@ -39,8 +38,138 @@
       "diplomacy": 6,
       "loyal": 7,
       "expansion": 7,
+"priorities": {
     "Freedom": 10,
     "Honor": 10
 }
         },
+{
+                "name": "Sindar",
+                "preferredVictoryType": "Domination",
+                "food": 3,
+                "production": 4,
+                "gold": 2,
+                "culture": 8,
+                "science": 2,
+                "faith": 6,
+                "military": 6,
+                "warMongering": 3,
+"aggressive": 2,
+      "declareWar": 5,
+      "commerce": 2,
+      "diplomacy": 2,
+      "loyal": 7,
+      "expansion": 2,
+"priorities": {
+    "Tradition": 10
+}
+        },
+{
+                "name": "Noldor",
+                "preferredVictoryType": "Domination",
+                "food": 5,
+                "production": 4,
+                "gold": 5,
+                "culture": 7,
+                "science": 4,
+                "faith": 5,
+                "military": 4,
+                "warMongering": 3,
+"aggressive": 3,
+      "declareWar": 3,
+      "commerce": 7,
+      "diplomacy": 5,
+      "loyal": 9,
+      "expansion": 2,
+"priorities": {
+    "Freedom": 10
+}
+        },
+{
+                "name": "Arnor",
+                "preferredVictoryType": "Domination",
+                "food": 6,
+                "production": 4,
+                "gold": 3,
+                "culture": 5,
+                "science": 6,
+                "faith": 4,
+                "military": 7,
+                "warMongering": 4,
+"aggressive": 4,
+      "declareWar": 6,
+      "commerce": 6,
+      "diplomacy": 5,
+      "loyal": 8,
+      "expansion": 8,
+"priorities": {
+    "Freedom": 10
+}
+        },
+{
+                "name": "Shire",
+                "preferredVictoryType": "Domination",
+                "food": 9,
+                "production": 4,
+                "gold": 5,
+                "culture": 7,
+                "science": 3,
+                "faith": 2,
+                "military": 2,
+                "warMongering": 1,
+"aggressive": 2,
+      "declareWar": 2,
+      "commerce": 7,
+      "diplomacy": 6,
+      "loyal": 8,
+      "expansion": 3,
+"priorities": {
+    "Tradition": 10,
+    "Freedom": 10
+}
+        },
+{
+                "name": "Dwarves",
+                "preferredVictoryType": "Domination",
+                "food": 2,
+                "production": 8,
+                "gold": 9,
+                "culture": 6,
+                "science": 6,
+                "faith": 5,
+                "military": 7,
+                "warMongering": 5,
+"aggressive": 1,
+      "declareWar": 7,
+      "commerce": 5,
+      "diplomacy": 2,
+      "loyal": 10,
+      "expansion": 3,
+"priorities": {
+    "Freedom": 10
+}
+        },
+{
+                "name": "Mordor",
+                "preferredVictoryType": "Domination",
+                "food": 3,
+                "production": 10,
+                "gold": 3,
+                "culture": 2,
+                "science": 5,
+                "faith": 9,
+                "military": 10,
+                "warMongering": 10,
+"aggressive": 10,
+      "declareWar": 10,
+      "commerce": 2,
+      "diplomacy": 1,
+      "loyal": 3,
+      "expansion": 8,
+"priorities": {
+    "Honor": 50
+}
+        },
+
+
 ]
