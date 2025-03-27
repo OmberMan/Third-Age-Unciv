@@ -447,7 +447,7 @@
 			"No movement cost to pillage","May capture killed [Barbarian] units","Ignores Zone of Control",
 			"Can move immediately once bought",
 			"Never appears as a Barbarian unit",
-			"Only available <with [SpecialDunlending]> <if [Evil] is constructed>",
+			"Only available <with [SpecialDunlending]> <if [Evil] is constructed>", "[50]% Strength <when fighting in [{Hills} {Forest}] tiles>",
 			"Unbuildable <in cities without a [Dunlending Supply]>"
 		]
 		"hurryCostModifier": 20,
